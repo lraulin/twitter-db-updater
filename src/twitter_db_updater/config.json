@@ -1,0 +1,10 @@
+{
+  "CONSUMER_KEY": "0aBMBHwGQ5hTQd94d992rcOp3",
+  "CONSUMER_SECRET": "kQRukAeQ4iTXjYqENBjzmCbYB9dkkBNCqq3wYVwWT0GHSmkzV2",
+  "ACCESS_TOKEN": "1064892450509127680-kdJCmE8NTGr7VMvbnS1m3Wuhzm5fCS",
+  "ACCESS_TOKEN_SECRET": "jlss2CUc8oJcxSPryqp1AAqbOa8U0MUG4rzClqrgeNNsN",
+  "dbName": "tweetmap",
+  "dbUser": "tweetmapuser",
+  "dbPassword": "Passw0rd!",
+  "googleMapsApiKey": "AIzaSyDsJbBHLkXK89HbtfMNG1o80-roNY295iU"
+}
