@@ -6,5 +6,17 @@
   "dbName": "tweetmap",
   "dbUser": "tweetmapuser",
   "dbPassword": "Passw0rd!",
-  "googleMapsApiKey": "AIzaSyDsJbBHLkXK89HbtfMNG1o80-roNY295iU"
+  "googleMapsApiKey": "AIzaSyDsJbBHLkXK89HbtfMNG1o80-roNY295iU",
+  "firebase": {
+    "apiKey": "AIzaSyCOrf2RgpjE0C2IvoX3-6SC90Jr9MDNEKk",
+    "authDomain": "incident-report-map.firebaseapp.com",
+    "databaseURL": "https://incident-report-map.firebaseio.com",
+    "projectId": "incident-report-map",
+    "storageBucket": "incident-report-map.appspot.com",
+    "messagingSenderId": "379333459385"
+  },
+  "firebaseUser": {
+    "user": "leeraulin@live.com",
+    "password": "N0r0s#t!"
+  }
 }
